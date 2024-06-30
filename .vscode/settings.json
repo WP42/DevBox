@@ -1,0 +1,11 @@
+{
+    "git.defaultBranchName": "production",
+    "git.repositoryScanMaxDepth": -1,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.branchPrefix": "eDev-",
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false
+    },
+    "terminal.integrated.tabs.defaultIcon": "logo-github"
+}
