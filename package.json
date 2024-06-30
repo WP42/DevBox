@@ -1,0 +1,10 @@
+{
+  "name": "@wp42/devbox",
+  "packageManager": "yarn@4.2.2",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
