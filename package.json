@@ -1,6 +1,7 @@
 {
   "name": "@wp42/devbox",
-  "packageManager": "yarn@4.2.2",
+  "packageManager": "yarn@4.3.1",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
