@@ -6,6 +6,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^31.1.0"
+    "electron": "^31.1.0",
+    "prettier": "^3.3.2"
   }
 }

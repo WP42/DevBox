@@ -4,7 +4,8 @@
         "pkief.material-icon-theme",
         "github.vscode-pull-request-github",
         "chrisdias.vscode-opennewinstance",
-        "gamunu.vscode-yarn"
+        "gamunu.vscode-yarn",
+        "esbenp.prettier-vscode"
     ]
     
 }
