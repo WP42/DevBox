@@ -6,6 +6,10 @@
     "chrisdias.vscode-opennewinstance",
     "gamunu.vscode-yarn",
     "esbenp.prettier-vscode",
-    "arcanis.vscode-zipfs"
+    "arcanis.vscode-zipfs",
+    "editorconfig.editorconfig",
+    "christian-kohler.npm-intellisense",
+    "mhutchie.git-graph",
+    "aiqubit.claude"
   ]
 }
